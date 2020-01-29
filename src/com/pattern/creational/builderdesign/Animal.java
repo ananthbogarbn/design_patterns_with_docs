@@ -2,7 +2,7 @@ package com.pattern.creational.builderdesign;
 
 public class Animal {
 
-	//required parameters
+	//required parameters 
 	private String name;
 	private String habitat;
 	private int lifeSpan;
